@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mynewapp/photoviewcontroller.swift"
+            timestampString = "541994230.248943"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "photoviewcontroller"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.photoviewcontroller.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; mynewapp.photoviewcontroller"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/photoviewcontroller.swift"
+                  timestampString = "541913875.569001"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "619">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.photoviewcontroller.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;mynewapp.photoviewcontroller&gt;"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/photoviewcontroller.swift"
+                  timestampString = "541913875.583167"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "532">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mynewapp/AppDelegate.swift"
+            timestampString = "541924726.137265"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.AppDelegate.__deallocating_deinit"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/AppDelegate.swift"
+                  timestampString = "541914059.074369"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.AppDelegate.__allocating_init() -&gt; mynewapp.AppDelegate"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/AppDelegate.swift"
+                  timestampString = "541914059.088982"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.AppDelegate.init() -&gt; mynewapp.AppDelegate"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/AppDelegate.swift"
+                  timestampString = "541914059.103678"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/AppDelegate.swift"
+                  timestampString = "541914059.119078"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mynewapp/ViewController.swift"
+            timestampString = "542798419.659439"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "signin(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.signin(Any) -&gt; ()"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "542020580.514508"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "3833">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in mynewapp.ViewController.signin(Any) -&gt; ()"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "542020580.525224"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "25">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mynewapp/ViewController.swift"
+            timestampString = "542798419.660073"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "signin(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mynewapp/ViewController.swift"
+            timestampString = "542798419.660522"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "initUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mynewapp/ViewController.swift"
+            timestampString = "542798419.660948"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "initUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mynewapp/ViewController.swift"
+            timestampString = "542798419.661375"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "Position"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mynewapp/ViewController.swift"
+            timestampString = "542798419.661793"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "Position"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mynewapp/ViewController.swift"
+            timestampString = "542798419.662167"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "Position"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mynewapp/ViewController.swift"
+            timestampString = "542798419.6625381"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mynewapp/ViewController.swift"
+            timestampString = "542798419.662951"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.timer.getter : __ObjC.Timer"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "543482135.532186"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.timer.setter : __ObjC.Timer"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "543482135.548226"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; mynewapp.ViewController"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "543482135.564531"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "858">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;mynewapp.ViewController&gt;"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "543482135.587184"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "777">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mynewapp/ViewController.swift"
+            timestampString = "542798419.663378"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "variable initialization expression of mynewapp.ViewController.keyFrameAnimation : __ObjC.CAKeyframeAnimation"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "543482135.781073"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.keyFrameAnimation.getter : __ObjC.CAKeyframeAnimation"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "543482135.797784"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; mynewapp.ViewController"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "543482135.813015"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1165">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;mynewapp.ViewController&gt;"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "543482135.827648"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1084">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mynewapp/ViewController.swift"
+            timestampString = "542798419.663825"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.fullheight.getter : CoreGraphics.CGFloat"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "543482135.867882"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "99">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.fullheight.setter : CoreGraphics.CGFloat"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "543482135.8807321"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; mynewapp.ViewController"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "543482135.895584"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1644">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;mynewapp.ViewController&gt;"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "543482135.916503"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1563">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mynewapp/ViewController.swift"
+            timestampString = "542798419.664248"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; mynewapp.ViewController"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "543482135.9773721"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "87">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;mynewapp.ViewController&gt;"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "543482135.9903311"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "57">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mynewapp/ViewController.swift"
+            timestampString = "542798419.664637"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.start.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "542519804.6606849"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.start.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIButton&gt;"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "542519804.680481"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; mynewapp.ViewController"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "542519804.6963741"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;mynewapp.ViewController&gt;"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "542519804.715919"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mynewapp/ViewController.swift"
+            timestampString = "542798419.665005"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.spot.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "543482136.0171191"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.spot.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "543482136.0331089"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; mynewapp.ViewController"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "543482136.057122"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "382">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;mynewapp.ViewController&gt;"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "543482136.0818779"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mynewapp/ViewController.swift"
+            timestampString = "542798419.6654021"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mynewapp/ViewController.swift"
+            timestampString = "542798419.665765"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.__deallocating_deinit"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "542519986.0089"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; mynewapp.ViewController"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "542519986.019713"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; mynewapp.ViewController"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "542519986.031024"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;mynewapp.ViewController&gt;"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "542519986.041595"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mynewapp.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;mynewapp.ViewController&gt;"
+                  moduleName = "mynewapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mislab/Desktop/git/mynewapp/mynewapp/ViewController.swift"
+                  timestampString = "542519986.053113"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mynewapp/compare.swift"
+            timestampString = "543482131.935798"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
